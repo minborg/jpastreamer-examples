@@ -1,0 +1,13 @@
+= JPAstreamer examples
+
+This repository shows some examples that are using [JPAstreamer](https://jpastreamer.org/).
+
+== LongFiles
+
+A short demo of how to select long films.
+
+[source, shell script]
+----
+mvn install exec:java@LongFilms
+----
+

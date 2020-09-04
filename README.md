@@ -1,2 +1,0 @@
-# jpastreamer-examples
-JPAstreamer examples

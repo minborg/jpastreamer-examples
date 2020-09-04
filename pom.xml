@@ -70,12 +70,12 @@
                 <executions>
 
                     <execution>
-                        <id>SimpleDemo1</id>
+                        <id>LongFilms</id>
                         <goals>
                             <goal>java</goal>
                         </goals>
                         <configuration>
-                            <mainClass>minborg.jpastreamer.examples.SimpleDemo1</mainClass>
+                            <mainClass>minborg.jpastreamer.examples.LongFilms</mainClass>
                             <classpathScope>compile</classpathScope>
                         </configuration>
                     </execution>
