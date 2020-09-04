@@ -1,6 +1,6 @@
 = JPAstreamer examples
 
-This repository shows some examples that are using [JPAstreamer](https://jpastreamer.org/).
+This repository shows some examples that are using link:https://jpastreamer.org/[JPAStreamer].
 
 == LongFiles
 
