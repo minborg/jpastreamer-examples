@@ -6,7 +6,11 @@
 
     <groupId>minborg</groupId>
     <artifactId>jpastreamer-examples</artifactId>
+    <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>newkidontheblock</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
