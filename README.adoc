@@ -2,12 +2,21 @@
 
 This repository shows some examples that are using link:https://jpastreamer.org/[JPAStreamer].
 
-== LongFiles
+== LongestFilms
 
 A short demo of how to select long films.
 
 [source, shell script]
 ----
-mvn install exec:java@LongFilms
+mvn install exec:java@LongestFilms
+----
+
+== Joins
+
+A short demo of how to pre-join columns to prevent select 1 + N issues.
+
+[source, shell script]
+----
+mvn install exec:java@Joining
 ----
 

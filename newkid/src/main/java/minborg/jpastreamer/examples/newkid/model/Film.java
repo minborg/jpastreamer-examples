@@ -1,4 +1,4 @@
-package minborg.jpastreamer.examples.newkidontheblock.model;
+package minborg.jpastreamer.examples.newkid.model;
 
 import javax.persistence.*;
 import java.io.Serializable;

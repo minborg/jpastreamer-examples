@@ -1,9 +1,8 @@
-package minborg.jpastreamer.examples.newkidontheblock;
+package minborg.jpastreamer.examples.newkid;
 
 import com.speedment.jpastreamer.application.JPAStreamer;
-import com.speedment.jpastreamer.streamconfiguration.StreamConfiguration;
-import minborg.jpastreamer.examples.newkidontheblock.model.Film;
-import minborg.jpastreamer.examples.newkidontheblock.model.Film$;
+import minborg.jpastreamer.examples.newkid.model.Film;
+import minborg.jpastreamer.examples.newkid.model.Film$;
 
 public class LongestFilms {
 
@@ -19,6 +18,8 @@ public class LongestFilms {
 
         jpaStreamer.close();
 
+
+        System.exit(0);
     }
 
 }
